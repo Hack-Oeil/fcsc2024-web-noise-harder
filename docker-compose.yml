@@ -1,0 +1,5 @@
+services:
+  noise-harder:
+    image: anssi/fcsc2024-web-noise-harder:latest
+    ports:
+      - ${PORT}:3000
