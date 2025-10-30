@@ -9,7 +9,9 @@ Une version plus simple de cette épreuve est disponible : ```Noise```.
 
 ![noise.jpg](noise.jpg)
 
-
+Fichiers à étudier :
+- noise-fix.patch
+- noise-harder.tar.xz
 
 Auteur : BitK
 
